@@ -1,0 +1,13 @@
+{
+  "reportType": "Roblox client-visible object inspection",
+  "status": "template_only_no_game_data_collected",
+  "capturedAt": null,
+  "gameName": null,
+  "placeId": null,
+  "limitations": [
+    "Only record objects legitimately available to the client at inspection time.",
+    "This file does not contain server-only objects or hidden server scripts.",
+    "An empty objects array means no inspection results have been added yet."
+  ],
+  "objects": []
+}
